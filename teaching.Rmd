@@ -5,7 +5,7 @@ title: "Teaching and Learning"
 ## Teaching and Learning Quantitative Skills in R    
 <img src="power.png" alt="Power Analysis" style="float:right;width:300px;height:300px;">
 
-I believe we learn best by doing, and data analysis provides an avenue for teaching and learning quantitative skills. Under the guidance of Nick Horton and Susan Holmes, I gained intermediate competency in biostatistics with R, and I have been passionate about sharing that competency with others. I have trained 4 individuals (a technician, a dentist, a high school student, and a study coordinator) who had no prior experience programming how to use R to solve a variety of different problems. Examples of work these individuals undertook with me are provided. 
+I believe we learn best by doing, and data analysis provides an avenue for teaching and learning quantitative skills. Under the guidance of [Nick Horton](https://www.amherst.edu/people/facstaff/nhorton) and [Susan Holmes](http://statweb.stanford.edu/~susan/), I gained intermediate competency in biostatistics with R, and I have been passionate about sharing that competency with others. I have trained 4 individuals (a technician, a dentist, a high school student, and a study coordinator) who had no prior experience programming how to use R to solve a variety of different problems. Examples of work these individuals undertook with me are provided. 
 
 - [Power Analysis](SamuelWalker-PowerCalculations.html) 
 - [Sam Poster](https://www.facebook.com/brushwithucsf/photos/a.508465669348620.1073741828.508188532709667/698045417057310/?type=3&theater)
