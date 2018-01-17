@@ -1,0 +1,27 @@
+---
+title: "Resources"
+---
+
+
+## Spatial ecology     
+- [Trend Surface Analysis](https://projecteuclid.org/euclid.aoas/1324399595)
+- [PCNM](http://www.sciencedirect.com/science/article/pii/S0304380001005014)
+- [Elements of Metacommunity Structure](http://onlinelibrary.wiley.com/doi/10.1034/j.1600-0706.2002.970210.x/abstract)
+
+## Good resources for newcomers to R
+- [Tidy Data](http://vita.had.co.nz/papers/tidy-data.html)
+- [Making a Website](http://nickstrayer.me/RMarkdown_Sites_tutorial/)
+- [Numerical Ecology with R](http://www.ievbras.ru/ecostat/Kiril/R/Biblio/R_eng/Numerical%20Ecology%20with%20R%20(use%20R).pdf)
+
+## Favorite R Packages   
+- [phyloseq](https://joey711.github.io/phyloseq/)
+- [dada2](https://benjjneb.github.io/dada2/tutorial.html)
+- [metacom](https://www.rdocumentation.org/packages/metacom/versions/1.4.7/topics/Metacommunity)
+- [vegan](https://cran.r-project.org/web/packages/vegan/index.html)
+- [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html)   
+
+## Fellowships    
+- [ASM Undergraduate Research Fellowship](https://www.asm.org/index.php/undergraduate-research-fellowship)
+- [EPA Star Graduate Fellowship](https://www.epa.gov/research-fellowships/science-achieve-results-star-graduate-fellowships)
+- [ASM Travel Grants](https://www.asm.org/index.php/travel-grants-2)
+

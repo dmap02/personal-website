@@ -1,0 +1,20 @@
+name: Dianas-website
+output_dir: .
+navbar:
+  title: Diana Proctor
+  left:
+  - text: Home
+    href: index.html
+  - text: Research
+    href: about.html
+  - text: Teaching
+    href: teaching.html
+  - text: Resources
+    href: resources.html
+output:
+  html_document:
+    theme: flatly
+    css: style.css
+    lib_dir: site_libs
+    self_contained: no
+

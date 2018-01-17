@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title>Teaching and Learning</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="style.css" />
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+
+.section h2 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h3 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h4 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h5 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h6 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Diana Proctor</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="about.html">Research</a>
+</li>
+<li>
+  <a href="teaching.html">Teaching</a>
+</li>
+<li>
+  <a href="resources.html">Resources</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Teaching and Learning</h1>
+
+</div>
+
+
+<section id="teaching-and-learning-quantitative-skills-in-r" class="level2">
+<h2>Teaching and Learning Quantitative Skills in R</h2>
+<p><img src="power.png" alt="Power Analysis" style="float:right;width:300px;height:300px;"></p>
+<p>I believe we learn best by doing, and data analysis provides an avenue for teaching and learning quantitative skills. Under the guidance of Nick Horton and Susan Holmes, I gained intermediate competency in biostatistics with R, and I have been passionate about sharing that competency with others. I have trained 4 individuals (a technician, a dentist, a high school student, and a study coordinator) who had no prior experience programming how to use R to solve a variety of different problems. Examples of work these individuals undertook with me are provided.</p>
+<ul>
+<li><a href="SamuelWalker-PowerCalculations.html">Power Analysis</a></li>
+<li><a href="https://www.facebook.com/brushwithucsf/photos/a.508465669348620.1073741828.508188532709667/698045417057310/?type=3&amp;theater">Sam Poster</a></li>
+<li><a href="ContaminationProject.html">Contamination</a><br />
+</li>
+<li><a href="FelixChen_TidyingClinicalData.html">Tidy data 1</a><br />
+</li>
+<li><a href="SwethaKanukula-TidyingClinicalData.html">Tidy data 2</a></li>
+</ul>
+<p><br> <br></p>
+</section>
+<section id="preparing-students-for-graduate-school" class="level2">
+<h2>Preparing students for graduate school</h2>
+<p><img src="20140714_dinner.jpg"  style="float:right;width:300px;height:200px;"> I am passionate about helping students to develop the soft skills that are required for the navigation of a successful career in the scientific enterprise. As a graduate student, I worked part time for the Stanford Biosciences <em>ADVANCE</em> Summer Institute, a program designed to facilitate the transition of under-represented students into graduate work at Stanford. Together with the <em>ADVANCE</em> team, I investigated the impact that the program has on the social and academic preparedness of matriculating graduate students. Ultimately, I see myself running similar versions of this program, helping students to acquire the soft skills needed to become successful scientists, whether in industry or in academia.</p>
+<ul>
+<li><a href="https://www.aaas.org/abstract/stanford-advance-novel-program-transitioning-bioscience-students-graduate-school">Read our Abstract</a></li>
+</ul>
+<p><br></p>
+</section>
+<section id="teaching-experience" class="level2">
+<h2>Teaching Experience</h2>
+<p><img src="teaching.jpg"  style="float:right;width:300px;height:200px;"></p>
+<section id="virology" class="level3">
+<h3>Virology</h3>
+<p>I led discussion sections for the Human Virosphere (MI 216) at Stanford University. In addition, I lectured during section for the year long course Humans &amp; Viruses (MI 155A / MI 155B) at Stanford. The image to the right was taken during the final review session for the yearlong course Humans &amp; Viruses. Students in that course asked me to lecture, during section, since they were having a difficult time assimilating the information that was presented in the course. To help students organize the information they were responsible for remembering, I developed a series of section sheets where students could record information during lecture. These sheets were meant to serve as study guides to facilitate student integration of course material. A sample of these materials is provided:</p>
+<ul>
+<li><a href="MoBioReview_Virology.pdf">See my Molecular Biology review handout for virology students</a></li>
+<li><a href="MoBioReview_Virology.pdf">See my section 1 materials on the DNA Viruses of Humans</a> <br> <br></li>
+</ul>
+</section>
+<section id="ecology" class="level3">
+<h3>Ecology</h3>
+<p><img src="plots.png"  style="float:right;width:300px;height:200px;"> I also had the opportunity to lecture once per week for the field ecology course required of all Biology majors at Stanford (Bio44Y, Stanford). Over the course of the quarter, ~45 students collected and analyzed data from experimental field plots (shown in the image on the right) to examine the impact of herbivory, among other factors, on the woody encroachment of <em>Baccharis pilularis</em> into grasslands at the Jasper Ridge Biological Preserve. In addition to grading problem sets, I critiqued student lab reports, which were meant to be written in the form of a scientific manuscript, giving students the opportunity to improve their final reports. Student evaluations for this course are available upon request.</p>
+<ul>
+<li><a href="student_report.pdf">Example #1 of feedback given on a student lab report for Bio 44Y (ecology)</a></li>
+<li><a href="StudentReport2.pdf">Example #2 of feedback given on a student lab report for Bio 44Y (ecology)</a></li>
+</ul>
+<p><br> <br></p>
+</section>
+</section>
+<section id="teaching-interests" class="level2">
+<h2>Teaching Interests</h2>
+<p>I’m interested in teaching lecture or discussion-based courses in virology, science writing, statistics for biology with R, and the scientific enterprise. I am also prepared to teach project-based microbiology courses.</p>
+</section>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
