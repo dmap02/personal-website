@@ -30,10 +30,10 @@ I am passionate about helping students to develop the soft skills that are requi
 <img src="teaching.jpg"  style="float:right;width:300px;height:200px;">
 
 ### Virology
-I led discussion sections for the Human Virosphere (MI 216) at Stanford University. In addition, I lectured during section for the year long course Humans & Viruses (MI 155A / MI 155B) at Stanford. The image to the right was taken during the final review session for the yearlong course Humans & Viruses. Students in that course asked me to lecture, during section, since they were having a difficult time assimilating the information that was presented in the course. To help students organize the information they were responsible for remembering, I developed a series of section sheets where students could record information during lecture. These sheets were meant to serve as study guides to facilitate student integration of course material. A sample of these materials is provided:
+I led discussion sections for the Human Virosphere (MI 216) at Stanford University. In addition, I lectured during section for Humans & Viruses (MI 155A / MI 155B) at Stanford. The image to the right was taken after the final review session for the yearlong course Humans & Viruses. Students in that course asked me to lecture, during section, since they were having a difficult time assimilating the information that was presented in the course. To help students organize the information they were responsible for remembering, I developed a series of section sheets where students could record information during lecture. These sheets were meant to serve as study guides to facilitate student integration of course material. A sample of these materials is provided:
 
-- [See my Molecular Biology review handout for virology students](MoBioReview_Virology.pdf)
-- [See my section 1 materials on the DNA Viruses of Humans](MoBioReview_Virology.pdf)
+- [See my Molecular Biology review handout for virology students](MoBioRev_Notes.pdf)
+- [See my section 1 materials on the DNA Viruses of Humans](Virology_Section1_shortened.pdf)
 <br>
 <br>
 
